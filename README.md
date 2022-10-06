@@ -1,4 +1,4 @@
-# Mouse-Move
+# MouseMove
 Javascript ile mouse hareketlerini gösteren proje
 # AÇIKLAMALAR
 * **x/y** : ClientX/Y ile aynı değerdedir.
